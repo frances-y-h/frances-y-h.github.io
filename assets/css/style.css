@@ -2,3 +2,27 @@
 	display: flex;
 	justify-content: center;
 }
+
+.fa-heart {
+	font-size: 14px;
+	color: rgb(197, 12, 46);
+}
+
+#heart {
+	animation: transparancy 2s infinite;
+}
+
+@keyframes transparancy {
+	0% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 1;
+	}
+	80% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}

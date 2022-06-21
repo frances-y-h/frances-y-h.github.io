@@ -23,12 +23,11 @@
 			<!-- Nav -->
 			<nav id="nav">
 				<a href="#" class="icon solid fa-home"><span>Home</span></a>
+				<a href="#skills" class="icon solid fa-hammer"><span>Skills</span></a>
 				<a href="#portfolio" class="icon solid fa-folder"
 					><span>Portfolio</span></a
 				>
-				<a href="https://twitter.com/ajlkn" class="icon brands fa-file-pdf"
-					><span>Resume</span></a
-				>
+				<a href="#resume" class="icon solid fa-file-pdf"><span>Resume</span></a>
 				<a href="#contact" class="icon solid fa-envelope"
 					><span>Contact</span></a
 				>
@@ -41,7 +40,16 @@
 					<header>
 						<h1>Frances (Huang) Lau</h1>
 						<p>Software Engineer</p>
-						<div>Love crafting from scratch</div>
+						<div>
+							Lo<span class="icon solid fa-heart" id="heart"></span>e crafting
+							from scratch
+						</div>
+						<hr />
+						<div>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+							enim ad minim veniam, quis nostrud exercitation ullamco laboris
+						</div>
 					</header>
 					<a href="#portfolio" class="jumplink pic">
 						<span class="arrow icon solid fa-chevron-right"
@@ -51,22 +59,79 @@
 					</a>
 				</article>
 
-				<!-- Work -->
+				<!-- Skills -->
+				<article id="skills" class="panel">
+					<header>
+						<h2>Skills</h2>
+					</header>
+					<section>
+						<div class="row">
+							<div class="col-2">
+								<img class="image fit" src="images/skills/html5.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/css3.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/js.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/node.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img
+									class="image fit"
+									src="images/skills/sequelize.png"
+									alt=""
+								/>
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/git.png" alt="" />
+							</div>
+						</div>
+						<hr />
+						<div class="row">
+							<div class="col-2">
+								<img class="image fit" src="images/skills/docker.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/python.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/flask.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img
+									class="image fit"
+									src="images/skills/postgres.png"
+									alt=""
+								/>
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/react.png" alt="" />
+							</div>
+							<div class="col-2">
+								<img class="image fit" src="images/skills/redux.png" alt="" />
+							</div>
+						</div>
+					</section>
+				</article>
+				<!-- Portfolio -->
 				<article id="portfolio" class="panel">
 					<header>
 						<h2>Portfolio</h2>
 					</header>
-					<h3>Yillow</h3>
+					<h3>
+						<a href="https://yillow-app.herokuapp.com/" target="_blank"
+							>Yillow</a
+						>
+					</h3>
 					<p>
 						A soft clone of the leading real estate marketplace - Zillow. Search
 						thousands of for-sale homes and connect with local professional real
 						estate agents.
 					</p>
 					<div class="demo-github">
-						<a href="https://yillow-app.herokuapp.com/" target="_blank"
-							>Live Demo</a
-						>
-						|
 						<a href="https://github.com/frances-y-h/yillow" target="_blank"
 							>Github</a
 						>
@@ -74,37 +139,13 @@
 					<section>
 						<div class="row">
 							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
-									><img src="images/yillow01.png" alt=""
-								/></a>
-							</div>
-							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
+								<a href="https://yillow-app.herokuapp.com/" class="image fit"
 									><img src="images/yillow02.png" alt=""
-								/></a>
-							</div>
-							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
-									><img src="images/yillow03.png" alt=""
-								/></a>
-							</div>
-							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
-									><img src="images/yillow04.png" alt=""
-								/></a>
-							</div>
-							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
-									><img src="images/yillow05.png" alt=""
-								/></a>
-							</div>
-							<div class="col-4 col-6-medium col-12-small">
-								<a href="#" class="image fit"
-									><img src="images/yillow06.png" alt=""
 								/></a>
 							</div>
 						</div>
 					</section>
+					<hr />
 					<h3>Concord</h3>
 					<p>
 						Team Project - Discord clone created with web sockets, React JS
@@ -153,6 +194,7 @@
 							</div>
 						</div>
 					</section>
+					<hr />
 					<h3>mememo</h3>
 					<p>
 						Solo Project - An Evernote clone created with React JS front end and

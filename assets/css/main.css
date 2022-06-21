@@ -161,6 +161,16 @@ textarea {
 	appearance: none;
 }
 
+a {
+	text-decoration: none;
+	cursor: pointer;
+	color: rgb(97, 4, 4);
+}
+
+a:hover {
+	color: red;
+}
+
 /* Row */
 
 .row {
@@ -1671,6 +1681,7 @@ header > p {
 	display: block;
 	width: 100%;
 	object-fit: cover;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
 }
 
 .image.featured {

@@ -55,6 +55,17 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
 
 <hr />
 
+<p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
+<img width="200" src="[https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg](https://user-images.githubusercontent.com/97005157/175167519-ae927a79-be0c-46ab-b495-f46d3fc356a9.png)" /></a>
+</p>
+
+<p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
+<img width="500" alt="good-hikes" src="https://user-images.githubusercontent.com/97005157/175167553-d91649a7-cd57-42bc-99cc-9e42684bb766.png"></a>
+</p>
+<h4 align="center">Team Project - Inspired by Good Reads and All Trails, Good Hikes is built with Pug JS with express backend.</h4>
+
+<hr />
+
 <h2 align="center">Contact Me</h2>
 <p align="center">frances.y.huang@gmail.com</p>
 <p align="center"><a href="https://www.linkedin.com/in/frances-huang-660607156/" target="_blank"><img width="16" alt="linkedin-logo" src="https://user-images.githubusercontent.com/97005157/175165944-39131565-f206-44e5-8524-a8add93b352a.png"> LinkedIn</a></p>

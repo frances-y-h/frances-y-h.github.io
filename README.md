@@ -56,7 +56,7 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
 <hr />
 
 <p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
-<img width="200" src="[https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg](https://user-images.githubusercontent.com/97005157/175167519-ae927a79-be0c-46ab-b495-f46d3fc356a9.png)" /></a>
+<img width="300" src="[https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg](https://user-images.githubusercontent.com/97005157/175167519-ae927a79-be0c-46ab-b495-f46d3fc356a9.png)" /></a>
 </p>
 
 <p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">

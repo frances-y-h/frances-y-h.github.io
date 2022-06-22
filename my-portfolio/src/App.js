@@ -1,25 +1,68 @@
-import logo from './logo.svg';
-import './App.css';
+import { useRef } from "react";
+
+import Frances from "./components/Frances";
+import Skills from "./components/Skills";
+import Projects from "./components/Projects";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const francesRef = useRef();
+	const skillsRef = useRef();
+	const projectsRef = useRef();
+
+	return (
+		<>
+			<div className="top">
+				<div className="page-wrap">
+					{/* <Frances ref={francesRef} />
+					<Skills ref={skillsRef} />
+					<Projects ref={projectsRef} /> */}
+					<div className="page" ref={francesRef}>
+						Frances
+					</div>
+					<div className="page" ref={skillsRef}>
+						Skills
+					</div>
+					<div className="page" ref={projectsRef}>
+						Project
+					</div>
+				</div>
+			</div>
+			<div className="bottom">
+				<div
+					onClick={() =>
+						francesRef.current.scrollIntoView({
+							behavior: "smooth",
+							block: "start",
+						})
+					}
+				>
+					About Frances
+				</div>
+				<div
+					onClick={() =>
+						skillsRef.current.scrollIntoView({
+							behavior: "smooth",
+							block: "start",
+						})
+					}
+				>
+					Skills
+				</div>
+				<div
+					onClick={() =>
+						projectsRef.current.scrollIntoView({
+							behavior: "smooth",
+							block: "start",
+						})
+					}
+				>
+					Portfolio
+				</div>
+				<div>Resume</div>
+				<div>Contact Me</div>
+			</div>
+		</>
+	);
 }
 
 export default App;

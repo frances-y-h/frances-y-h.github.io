@@ -41,4 +41,10 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   </a>
 </p>
 
-<h4 align="center">Solo Project - Heavly inspired by Evernote, mememo is a note taking app which focused on user experience.</h4>
+<h4 align="center">Solo Project - Heavily inspired by Evernote, mememo is a note taking app which focused on user experience.</h4>
+
+<hr />
+
+<h2 align="center">Contact Me</h2>
+<p align="center">frances.y.huang@gmail.com</p>
+<p align="center"><a href="https://www.linkedin.com/in/frances-huang-660607156/" target="_blank"><img width="30" alt="linkedin-logo" src="https://user-images.githubusercontent.com/97005157/175165944-39131565-f206-44e5-8524-a8add93b352a.png">LinkedIn</a></p>

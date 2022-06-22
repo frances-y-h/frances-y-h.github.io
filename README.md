@@ -44,9 +44,9 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
 <h4 align="center">Solo Project - Heavily inspired by Evernote, mememo is a note taking app which focused on user experience.</h4>
 
 <hr />
-<p align="center"><a href="https://go-concord.herokuapp.com" target="_blank">
-<img width="200" src="https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg" /></a>
-</p>
+<h1 align="center"><a href="https://go-concord.herokuapp.com" target="_blank">
+<img width="50" src="https://user-images.githubusercontent.com/97005157/175167959-d1464551-7688-4a6c-a602-ee1d9648e68e.svg" />CONCORD</a>
+</h1>
 
 <p align="center"><a href="https://go-concord.herokuapp.com" target="_blank">
 <img width="500" alt="concord01" src="https://user-images.githubusercontent.com/97005157/175166527-2b620a1e-14ab-479c-9967-b602aaafda19.png"></a>
@@ -55,9 +55,9 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
 
 <hr />
 
-<p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
-<img width="300" src="[https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg](https://user-images.githubusercontent.com/97005157/175167519-ae927a79-be0c-46ab-b495-f46d3fc356a9.png)" /></a>
-</p>
+<h1 align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
+Good Hikes</a>
+</h1>
 
 <p align="center"><a href="https://good-hikes.herokuapp.com" target="_blank">
 <img width="500" alt="good-hikes" src="https://user-images.githubusercontent.com/97005157/175167553-d91649a7-cd57-42bc-99cc-9e42684bb766.png"></a>

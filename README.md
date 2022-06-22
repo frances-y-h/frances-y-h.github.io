@@ -44,6 +44,16 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
 <h4 align="center">Solo Project - Heavily inspired by Evernote, mememo is a note taking app which focused on user experience.</h4>
 
 <hr />
+<p align="center"><a href="https://go-concord.herokuapp.com" target="_blank">
+<img width="200" src="https://user-images.githubusercontent.com/97005157/175166359-bc13ac53-e0e6-4d7e-94dc-2dfadafce2e7.svg" /></a>
+</p>
+
+<p align="center"><a href="https://go-concord.herokuapp.com" target="_blank">
+<img width="500" alt="concord01" src="https://user-images.githubusercontent.com/97005157/175166527-2b620a1e-14ab-479c-9967-b602aaafda19.png"></a>
+</p>
+<h4 align="center">Team Project - Discord clone with React, Redux, Python, and web socket for real-time chatting</h4>
+
+<hr />
 
 <h2 align="center">Contact Me</h2>
 <p align="center">frances.y.huang@gmail.com</p>

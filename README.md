@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Frances. A full stack software engineer.</h1>
 
 
-<p  align="center"><img width="300" height="300" src="https://user-images.githubusercontent.com/97005157/175145110-3745a32b-5e2c-4c88-b813-32c4bef48dd8.png"></p>
+<p align="center"><img width="300" height="300" src="https://user-images.githubusercontent.com/97005157/175145110-3745a32b-5e2c-4c88-b813-32c4bef48dd8.png"></p>
 
 <p>Hi I'm Frances. I grew up in California.
 
@@ -25,3 +25,20 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   <img width="50" height="50" src="https://user-images.githubusercontent.com/97005157/175160373-a9b0b6e1-ed06-402a-90fd-6a4f2e715a5f.png">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/97005157/175160379-2eb2e942-3d02-4ae6-a9d9-36b404e957e5.png">
 </p>
+
+<h2 align="center">Checkout out my projects!</h2>
+
+<p align="center"><a href="https://yillow-app.herokuapp.com" target="_blank"><img width="150" src="https://user-images.githubusercontent.com/97005157/175164613-9b850628-42f4-49cd-84c7-591481ac179a.svg" /></a></p>
+
+<p  align="center"><a href="https://yillow-app.herokuapp.com" target="_blank"><img width="500" alt="yillow01" src="https://user-images.githubusercontent.com/97005157/175163792-ba34bc94-241a-4246-9028-ff9257cf14a9.png"></a></p>
+<h4 align="center">Solo Project - Zillow clone with interactive Google Maps API and web socket for chat.</h4>
+
+<hr />
+<h1 align="center"><a href="https://mememo.herokuapp.com" target="_blank">mememo <img  width ="40" src="https://user-images.githubusercontent.com/97005157/175165278-a88dbd26-adc0-479e-8dbc-a88d3da764a9.svg" alt="bee"/></a></h1>
+
+<p align="center"><a href="https://mememo.herokuapp.com" target="_blank">
+<img width="500" alt="mememo01" src="https://user-images.githubusercontent.com/97005157/175165414-5f40c359-eb85-49c3-aef8-a7943fa9ca37.png">
+  </a>
+</p>
+
+<h4 align="center">Solo Project - Heavly inspired by Evernote, mememo is a note taking app which focused on user experience.</h4>

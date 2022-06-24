@@ -1,5 +1,5 @@
 const Projects = () => {
-	return <div className="page">Projects</div>;
+	return <div className="project-wrap">checkout my projects</div>;
 };
 
 export default Projects;

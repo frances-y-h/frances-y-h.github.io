@@ -1,0 +1,8 @@
+.project-wrap {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	padding: 10vw;
+	align-items: center;
+	font-size: 6vw;
+}

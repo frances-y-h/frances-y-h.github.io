@@ -1,0 +1,67 @@
+.frances-wrap {
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+}
+
+.ascii-art {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 100vh;
+}
+
+.frances-wrap .info {
+	position: absolute;
+	top: 50vh;
+	left: 10vh;
+}
+
+.frances-wrap .title {
+	font-size: 12vw;
+	font-weight: 400;
+	line-height: 0.85em;
+}
+
+.frances-wrap .frances {
+	position: absolute;
+	top: 30vh;
+	height: 30vw;
+	right: 10vw;
+}
+
+.frances-wrap .desc {
+	font-size: 5vw;
+	color: rgb(95, 95, 95);
+}
+
+.frances-wrap .craft {
+	font-size: 3vw;
+	font-weight: 400;
+}
+
+.fa-heart {
+	font-size: 2vw;
+	color: rgb(197, 12, 46);
+	padding: 0px 3px;
+}
+
+#heart {
+	animation: transparancy 2s infinite;
+}
+
+@keyframes transparancy {
+	0% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 1;
+	}
+	80% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}

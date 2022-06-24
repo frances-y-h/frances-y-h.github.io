@@ -1,0 +1,13 @@
+.resume-wrap {
+	display: flex;
+	width: 100vw;
+	background-color: lightgray;
+	padding: 20vw 10vw;
+	font-size: 10vw;
+	align-items: center;
+}
+
+.resume-wrap .fa-file-pdf {
+	padding-right: 5vw;
+	color: rgb(197, 12, 46);
+}

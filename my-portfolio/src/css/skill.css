@@ -1,0 +1,23 @@
+.skill-wrap {
+	width: 100vw;
+	padding: 5vw;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgb(162, 146, 146);
+	animation: appear 5s 1;
+}
+
+@keyframes appear {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.skill-wrap .title {
+	font-size: 10vw;
+	color: white;
+}

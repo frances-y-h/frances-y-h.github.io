@@ -27,7 +27,7 @@ const Contact = ({ offsetY }) => {
 				<div
 					className="contact"
 					style={{
-						transform: `translateX(${Math.max(scrollY - 200, 0)}px)`,
+						transform: `translateX(${Math.max(scrollY - 300, 0)}px)`,
 					}}
 				>
 					contact me

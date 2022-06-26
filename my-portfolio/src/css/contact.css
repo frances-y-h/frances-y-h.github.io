@@ -1,6 +1,6 @@
 .contact-wrap {
 	width: 100vw;
-	height: 80vh;
+	height: 50vw;
 	display: flex;
 	position: relative;
 }
@@ -33,10 +33,4 @@
 	gap: 10px;
 	font-size: 2vw;
 	align-items: center;
-}
-
-@media screen and (orientation: portrait) {
-	.contact-wrap {
-		height: 70vh;
-	}
 }

@@ -6,6 +6,7 @@
 	align-items: center;
 	background-color: rgb(162, 146, 146);
 	animation: appear 5s 1;
+	gap: 4vw;
 }
 
 @keyframes appear {
@@ -20,4 +21,17 @@
 .skill-wrap .title {
 	font-size: 10vw;
 	color: white;
+}
+
+.skill-wrap .skills {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 3vw;
+	width: 60vw;
+}
+
+.skill-wrap .skill-img {
+	width: 7vw;
+	border-radius: 0.25rem;
 }

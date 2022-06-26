@@ -4,5 +4,57 @@
 	width: 100vw;
 	padding: 10vw;
 	align-items: center;
+	gap: 5vw;
+}
+
+.project-wrap .title {
 	font-size: 6vw;
+}
+
+.project-wrap .project {
+	padding: 0.5vw;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	box-shadow: 0 0 1vw rgba(0, 0, 0, 0.3);
+	background-color: white;
+}
+
+.project-wrap .project .image {
+	width: 40vw;
+	height: 30vw;
+	object-fit: cover;
+}
+
+.project-wrap .project .description {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 30vw;
+	padding: 3vw;
+	gap: 2vw;
+	font-size: 2vw;
+}
+
+.project-wrap .project .logo {
+	width: 15vw;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes fadeOut {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
 }

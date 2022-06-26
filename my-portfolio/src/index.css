@@ -49,3 +49,39 @@ a {
 svg {
 	fill: black;
 }
+
+.btn {
+	padding: 1vw 2vw;
+	border-radius: 10vw;
+	border: 1px solid transparent;
+	outline: none;
+	cursor: pointer;
+	font-weight: bolder;
+	transition: all 0.5s;
+	background-color: lightgray;
+}
+
+.btn:hover {
+	background-color: rgb(255, 222, 228);
+	border-color: rgb(197, 12, 46);
+	color: rgb(197, 12, 46);
+}
+
+.btn-wrap {
+	display: flex;
+}
+
+.btn-sq {
+	border: none;
+	outline: none;
+	width: 3vw;
+	height: 3vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+}
+
+.btn-sq-bg {
+	background-color: lightgray;
+}

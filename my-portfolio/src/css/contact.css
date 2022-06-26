@@ -1,9 +1,8 @@
 .contact-wrap {
 	width: 100vw;
-	height: 81vh;
+	height: 80vh;
 	display: flex;
 	position: relative;
-	overflow: hidden;
 }
 
 .contact-wrap .frances {
@@ -38,6 +37,6 @@
 
 @media screen and (orientation: portrait) {
 	.contact-wrap {
-		height: 50vh;
+		height: 70vh;
 	}
 }

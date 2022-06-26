@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f63987d4.css",
-    "main.js": "/static/js/main.62d30182.js",
+    "main.css": "/static/css/main.35045317.css",
+    "main.js": "/static/js/main.fc9dc573.js",
     "static/media/goodhikes01.png": "/static/media/goodhikes01.cff4afc0e929c22fc4bb.png",
     "static/media/frances-ascii.svg": "/static/media/frances-ascii.f084d019224d0a1192058c65727b58cf.svg",
     "static/media/yillow01.png": "/static/media/yillow01.7993dca1db990f541998.png",
@@ -26,11 +26,11 @@
     "static/media/mememo-logo.svg": "/static/media/mememo-logo.0029677dcf2c7b8f274085391127f680.svg",
     "static/media/yillow-logo.svg": "/static/media/yillow-logo.78698ddba445fa2dd37338ab70848f19.svg",
     "index.html": "/index.html",
-    "main.f63987d4.css.map": "/static/css/main.f63987d4.css.map",
-    "main.62d30182.js.map": "/static/js/main.62d30182.js.map"
+    "main.35045317.css.map": "/static/css/main.35045317.css.map",
+    "main.fc9dc573.js.map": "/static/js/main.fc9dc573.js.map"
   },
   "entrypoints": [
-    "static/css/main.f63987d4.css",
-    "static/js/main.62d30182.js"
+    "static/css/main.35045317.css",
+    "static/js/main.fc9dc573.js"
   ]
 }

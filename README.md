@@ -22,6 +22,9 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/sequelize-9cf?style=for-the-badge&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%9cf9cf">
+  <img src="https://img.shields.io/badge/redux-5C2D91?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=%5C2D91">
 </p>
 
 

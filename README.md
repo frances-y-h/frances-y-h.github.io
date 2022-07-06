@@ -19,8 +19,9 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%blue">
   <img src="https://img.shields.io/badge/Git-critical?style=for-the-badge&logo=git&logoColor=white">
-  <img src="">
-  <img src="">
+  <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/sequelize-9cf?style=for-the-badge&logo=sequelize&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%9cf9cf">
 </p>
 
 

@@ -24,10 +24,12 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   <img width="50" height="50" src="https://user-images.githubusercontent.com/97005157/175160368-329b3f33-e2f2-4181-bbf0-b592a83747e1.png">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/97005157/175160373-a9b0b6e1-ed06-402a-90fd-6a4f2e715a5f.png">
   <img width="50" height="50" src="https://user-images.githubusercontent.com/97005157/175160379-2eb2e942-3d02-4ae6-a9d9-36b404e957e5.png">
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%blue)
 </p>
 
 <h2 align="center">Checkout out my projects!</h2>

@@ -1,37 +1,17 @@
-import { useState, useRef, useEffect } from "react";
+import { Fade } from "react-awesome-reveal";
 
 import frances from "../../assets/images/frances.png";
 
-const Contact = ({ offsetY }) => {
-	const [scrollY, setScrollY] = useState(0);
-	const imgRef = useRef(null);
-
-	useEffect(() => {
-		if (imgRef.current) {
-			setScrollY(imgRef.current.getBoundingClientRect().top);
-		}
-	}, [offsetY]);
-
+const Contact = () => {
 	return (
-		<div className="contact-wrap" ref={imgRef}>
-			<img
-				src={frances}
-				className="frances"
-				alt="frances"
-				style={{
-					transform: `translateY(${Math.max(scrollY - 300, 0)}px)`,
-					// when offsetY is close to actual y, getting close to 0
-				}}
-			/>
+		<div className="contact-wrap">
+			<Fade direction="up">
+				<img src={frances} className="frances" alt="frances" />
+			</Fade>
 			<div className="container">
-				<div
-					className="contact"
-					style={{
-						transform: `translateX(${Math.max(scrollY - 300, 0)}px)`,
-					}}
-				>
-					contact me
-				</div>
+				<Fade direction="right">
+					<div className="contact">contact me</div>
+				</Fade>
 				<div className="detail" data-tip="Click to copy to clipboard">
 					<i className="fa-solid fa-heart" id="heart"></i>
 					<div>frances.y.huang@gmail.com</div>

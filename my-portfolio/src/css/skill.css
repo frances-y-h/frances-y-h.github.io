@@ -27,11 +27,40 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	gap: 3vw;
+	gap: 2vw;
 	width: 60vw;
 }
 
 .skill-wrap .skill-img {
-	width: 7vw;
+	width: 8vw;
 	border-radius: 0.25rem;
+	background-color: #f0f0f0;
+	padding: 0.75vw;
+}
+
+.skills-ul {
+	display: flex;
+	width: 60vw;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	gap: 2vw;
+	padding: unset;
+}
+
+.skills-ul li {
+	list-style: none;
+	font-size: 1.5vw;
+}
+
+@media screen and (max-width: 520px) {
+	.skill-wrap .skills {
+		width: 80vw;
+	}
+	.skill-wrap .skill-img {
+		width: 10vw;
+	}
+
+	.skills-ul {
+		width: 80vw;
+	}
 }

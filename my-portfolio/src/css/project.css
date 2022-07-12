@@ -22,7 +22,6 @@
 .project-wrap .project .image {
 	width: 40vw;
 	height: 30vw;
-	object-fit: cover;
 }
 
 .project-wrap .project .description {

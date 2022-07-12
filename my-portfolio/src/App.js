@@ -30,8 +30,8 @@ const App = () => {
 			<Skills ref={skillsRef} />
 			<Projects ref={projectsRef} />
 			<Resume ref={resumeRef} />
-			<Contact offsetY={offsetY} ref={contactRef} />
-			<footer>copyright 2022 Frances (Huang) Lau</footer>
+			<Contact ref={contactRef} />
+			<footer>copyright © 2022 Frances (Huang) Lau</footer>
 		</div>
 	);
 };

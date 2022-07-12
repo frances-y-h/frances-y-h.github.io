@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.35045317.css",
-    "main.js": "/static/js/main.fc9dc573.js",
+    "main.css": "/static/css/main.42b5b5a8.css",
+    "main.js": "/static/js/main.29aad3c6.js",
     "static/media/goodhikes01.png": "/static/media/goodhikes01.cff4afc0e929c22fc4bb.png",
     "static/media/frances-ascii.svg": "/static/media/frances-ascii.f084d019224d0a1192058c65727b58cf.svg",
     "static/media/yillow01.png": "/static/media/yillow01.7993dca1db990f541998.png",
     "static/media/frances.png": "/static/media/frances.07044c7e237a1691ca97.png",
-    "static/media/mememo01.png": "/static/media/mememo01.455f01e283c8615dde5b.png",
-    "static/media/concord01.png": "/static/media/concord01.efb7cab467117e4402a8.png",
+    "static/media/mememo01.png": "/static/media/mememo01.972e5489c2abdd97092b.png",
+    "static/media/concord01.png": "/static/media/concord01.9030bdcf3c1c2ebb4800.png",
     "static/media/flask.png": "/static/media/flask.c10bdd8576b847d836ce.png",
     "static/media/postgres.png": "/static/media/postgres.22f9dbe890e30bdf749a.png",
     "static/media/react.png": "/static/media/react.24cec67e672f11552ac6.png",
@@ -26,11 +26,11 @@
     "static/media/mememo-logo.svg": "/static/media/mememo-logo.0029677dcf2c7b8f274085391127f680.svg",
     "static/media/yillow-logo.svg": "/static/media/yillow-logo.78698ddba445fa2dd37338ab70848f19.svg",
     "index.html": "/index.html",
-    "main.35045317.css.map": "/static/css/main.35045317.css.map",
-    "main.fc9dc573.js.map": "/static/js/main.fc9dc573.js.map"
+    "main.42b5b5a8.css.map": "/static/css/main.42b5b5a8.css.map",
+    "main.29aad3c6.js.map": "/static/js/main.29aad3c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.35045317.css",
-    "static/js/main.fc9dc573.js"
+    "static/css/main.42b5b5a8.css",
+    "static/js/main.29aad3c6.js"
   ]
 }

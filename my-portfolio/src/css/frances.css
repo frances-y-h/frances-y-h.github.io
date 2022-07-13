@@ -67,6 +67,9 @@
 }
 
 @media screen and (max-width: 520px) {
+	.ascii-art {
+		opacity: 0.5;
+	}
 	.frances-wrap .info {
 		left: 5vh;
 	}

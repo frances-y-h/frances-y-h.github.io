@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Frances. A full stack software engineer.</h1>
 
-
 <p align="center"><img width="300" height="300" src="https://user-images.githubusercontent.com/97005157/175145110-3745a32b-5e2c-4c88-b813-32c4bef48dd8.png"></p>
 
 <p>Hi I'm Frances. I grew up in California.
@@ -26,8 +25,6 @@ I am a fast learner and a perfectionist. I can easily adopt to any work environm
   <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B">
   <img src="https://img.shields.io/badge/flask-%23323330.svg?style=for-the-badge&logo=flask&logoColor=%5C2D91">
 </p>
-
-
 
 <h2 align="center">Checkout out my projects!</h2>
 
@@ -71,4 +68,6 @@ Good Hikes</a>
 
 <h2 align="center">Contact Me</h2>
 <p align="center">frances.y.huang@gmail.com</p>
-<p align="center"><a href="https://www.linkedin.com/in/frances-huang-660607156/" target="_blank"><img width="16" alt="linkedin-logo" src="https://user-images.githubusercontent.com/97005157/175165944-39131565-f206-44e5-8524-a8add93b352a.png"> LinkedIn</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/frances-huang-660607156"><img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin" /></a> <a href="https://github.com/frances-y-h"><img src="https://shields.io/badge/GitHub-black?logo=github" /></a>
+<a href="https://angel.co/u/frances-huang-lau"><img src="https://shields.io/badge/AngelList-gray?logo=angellist" /></a>
+</p>

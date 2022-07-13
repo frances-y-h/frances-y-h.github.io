@@ -5,7 +5,7 @@ import frances from "../../assets/images/frances.png";
 const Contact = () => {
 	return (
 		<div className="contact-wrap">
-			<Fade direction="up">
+			<Fade direction="down" fraction={0.5}>
 				<img src={frances} className="frances" alt="frances" />
 			</Fade>
 			<div className="container">

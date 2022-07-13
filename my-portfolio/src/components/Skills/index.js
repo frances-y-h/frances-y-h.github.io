@@ -1,4 +1,4 @@
-import { Fade, Rotate } from "react-awesome-reveal";
+import { Fade } from "react-awesome-reveal";
 
 import css3 from "../../assets/images/skills/css3.png";
 import docker from "../../assets/images/skills/docker.png";

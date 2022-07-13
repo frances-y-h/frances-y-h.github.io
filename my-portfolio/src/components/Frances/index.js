@@ -1,4 +1,4 @@
-import ascii from "../../assets/images/frances-ascii.svg";
+import ascii from "../../assets/images/frances-ascii.png";
 
 const Frances = ({ offsetY }) => {
 	return (

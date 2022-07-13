@@ -96,3 +96,10 @@ footer {
 	padding: 2vw;
 	color: gray;
 }
+
+@media screen and (max-width: 520px) {
+	.btn-sq {
+		width: 5vw;
+		height: 5vw;
+	}
+}

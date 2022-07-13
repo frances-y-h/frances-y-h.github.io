@@ -13,7 +13,7 @@ const Projects = () => {
 		setinterval(
 			setInterval(
 				setSite((prevSite) => (prevSite + 1) % 4),
-				10000
+				3000
 			)
 		);
 

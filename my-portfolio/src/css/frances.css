@@ -65,3 +65,15 @@
 		opacity: 1;
 	}
 }
+
+@media screen and (max-width: 520px) {
+	.frances-wrap .info {
+		left: 5vh;
+	}
+
+	.frances-wrap .desc,
+	.frances-wrap .craft {
+		text-shadow: 2px 2px 0 rgba(255, 255, 255, 1);
+		font-weight: bold;
+	}
+}

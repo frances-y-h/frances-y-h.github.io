@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d01f039.css",
-    "main.js": "/static/js/main.9e345066.js",
+    "main.js": "/static/js/main.8ea2d043.js",
     "static/media/goodhikes01.png": "/static/media/goodhikes01.cff4afc0e929c22fc4bb.png",
     "static/media/yillow01.png": "/static/media/yillow01.7993dca1db990f541998.png",
     "static/media/frances.png": "/static/media/frances.07044c7e237a1691ca97.png",
@@ -14,8 +14,8 @@
     "static/media/sequelize.png": "/static/media/sequelize.784bb71e557aaab56adc.png",
     "static/media/redux.png": "/static/media/redux.f99b70f206d98410b753.png",
     "static/media/node.png": "/static/media/node.d44974c93324e3b89500.png",
+    "static/media/FrancesHuangResume.pdf": "/static/media/FrancesHuangResume.1e858a07c3a1224cbda1.pdf",
     "static/media/docker.png": "/static/media/docker.46a1b148ad7d23e3ba2b.png",
-    "static/media/FrancesHuangResume.pdf": "/static/media/FrancesHuangResume.63ea58f724a01baee8f9.pdf",
     "static/media/python.png": "/static/media/python.213262392b11b2d7fbdb.png",
     "static/media/git.png": "/static/media/git.d3457d824d23ac06462e.png",
     "static/media/css3.png": "/static/media/css3.58180e03ad7118461f5d.png",
@@ -27,10 +27,10 @@
     "static/media/yillow-logo.svg": "/static/media/yillow-logo.78698ddba445fa2dd37338ab70848f19.svg",
     "index.html": "/index.html",
     "main.4d01f039.css.map": "/static/css/main.4d01f039.css.map",
-    "main.9e345066.js.map": "/static/js/main.9e345066.js.map"
+    "main.8ea2d043.js.map": "/static/js/main.8ea2d043.js.map"
   },
   "entrypoints": [
     "static/css/main.4d01f039.css",
-    "static/js/main.9e345066.js"
+    "static/js/main.8ea2d043.js"
   ]
 }

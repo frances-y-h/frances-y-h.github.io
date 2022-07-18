@@ -23,7 +23,7 @@
 }
 
 .contact-wrap .contact {
-	font-size: 15vw;
+	font-size: 10vw;
 	line-height: 0.65em;
 	letter-spacing: -0.05em;
 }
@@ -36,6 +36,9 @@
 }
 
 @media screen and (max-width: 520px) {
+	.contact-wrap .contact {
+		font-size: 15vw;
+	}
 	.contact-wrap .frances {
 		top: 5vh;
 	}

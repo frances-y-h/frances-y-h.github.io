@@ -19,7 +19,7 @@
 }
 
 .frances-wrap .title {
-	font-size: 12vw;
+	font-size: 7vw;
 	font-weight: 400;
 	line-height: 0.85em;
 }
@@ -66,9 +66,18 @@
 	}
 }
 
+@media screen and (min-width: 521px) and (max-width: 760px) {
+	.frances-wrap .title {
+		font-size: 10vw;
+	}
+}
+
 @media screen and (max-width: 520px) {
 	.ascii-art {
 		opacity: 0.5;
+	}
+	.frances-wrap .title {
+		font-size: 12vw;
 	}
 	.frances-wrap .info {
 		left: 5vh;

@@ -19,7 +19,7 @@
 }
 
 .skill-wrap .title {
-	font-size: 10vw;
+	font-size: 6vw;
 	color: white;
 }
 
@@ -52,7 +52,16 @@
 	font-size: 1.5vw;
 }
 
+@media screen and (min-width: 521px) and (max-width: 760px) {
+	.skill-wrap .title {
+		font-size: 10vw;
+	}
+}
+
 @media screen and (max-width: 520px) {
+	.skill-wrap .title {
+		font-size: 12vw;
+	}
 	.skill-wrap .skills {
 		width: 80vw;
 	}

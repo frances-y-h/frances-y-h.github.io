@@ -3,11 +3,18 @@
 	width: 100vw;
 	background-color: lightgray;
 	padding: 20vw 10vw;
-	font-size: 10vw;
+	font-size: 7vw;
 	align-items: center;
+	gap: 2vw;
 }
 
 .resume-wrap .fa-file-pdf {
 	padding-right: 5vw;
 	color: rgb(197, 12, 46);
+}
+
+@media screen and (max-width: 760px) {
+	.resume-wrap {
+		font-size: 10vw;
+	}
 }

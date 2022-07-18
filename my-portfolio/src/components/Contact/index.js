@@ -10,7 +10,11 @@ const Contact = () => {
 			</Fade>
 			<div className="container">
 				<Fade direction="right">
-					<div className="contact">contact me</div>
+					<div className="contact">
+						contact
+						<br />
+						me
+					</div>
 				</Fade>
 				<div className="detail" data-tip="Click to copy to clipboard">
 					<i className="fa-solid fa-heart" id="heart"></i>
